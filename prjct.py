@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
-from scipy.spatial.distance import pdist
-from scipy.cluster.hierarchy import *
+#from scipy.spatial.distance import pdist
+#from scipy.cluster.hierarchy import *
 from matplotlib import pyplot as plt
 from matplotlib import rc
 import numpy as np
